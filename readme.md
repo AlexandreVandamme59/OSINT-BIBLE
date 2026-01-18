@@ -902,6 +902,7 @@ def check_email_accounts(email):
 | **LeakCheck** | Real-time search | https://leakcheck.io | Freemium |
 | **Intelligence X** | Dark web + breaches | https://intelx.io | Freemium |
 | **h8mail** | Local breach search | GitHub | Free |
+| **Hudson Rock** | Infostealer intelligence | https://www.hudsonrock.com/threat-intelligence-cybercrime-tools | Free |
 
 **Quick command:**
 ```bash
