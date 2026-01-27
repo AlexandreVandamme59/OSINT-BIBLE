@@ -239,6 +239,7 @@ graph TD
 - [Wayback Machine](https://archive.org/web)
 - [CachedView](https://cachedview.com) (Google + Archive.is)
 - [URLScan](https://urlscan.io) → capture + DOM + requests
+- [Ubikron](https://ubikron.com ) → AI-powered evidence collection & entity extraction
 - [Screenshot Guru](https://screenshot.guru) → screen test
 - [Stored Website](https://stored.website) → cached pages
 - [ThreatMiner](https://www.threatminer.org) → IOC context
@@ -1139,6 +1140,7 @@ masscan: ~5 seconds (less detail)
 
 | Framework | Language | URL | Strength |
 |---|---|---|---|
+| **Ubikron** | Browser Ext | https://ubikron.com | AI-powered case management & entity extraction |
 | **SpiderFoot** | Python | https://github.com/smicallef/spiderfoot | Total automation |
 | **Recon-ng** | Python | https://github.com/lanmaster53/recon-ng | Modular |
 | **theHarvester** | Python | https://github.com/laramies/theHarvester | Email/subdomain |
